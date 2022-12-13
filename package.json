@@ -1,5 +1,5 @@
 {
-  "homepage": "https://astikjun.github.io/react-notes-app",
+  "homepage": "https://AstikJun.github.io/react-note-app",
   "name": "note-react-app",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy":"npm run build",
-    "deploy":"gh-pages -d build -r https://github.com/AstikJun/note-react-app",
+    "deploy":"gh-pages -d build -r https://github.com/AstikJun/react-note-app",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
